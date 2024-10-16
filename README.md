@@ -1,4 +1,4 @@
-# Saudação com uma IA Extremamente Aesthetic ;)
+# Saudação com uma IA
 
 ## 📒 Descrição
 Saudação e apresentação com a IA
